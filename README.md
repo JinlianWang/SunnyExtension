@@ -1,4 +1,4 @@
-#SunnyExtension
+# SunnyExtension
 
 This repo is my playground for Chrome Extension. The initial code is based on [How to Make a Chrome Extension](https://thoughtbot.com/blog/how-to-make-a-chrome-extension). I will continue to add more code to explore other aspects, including: 
 
@@ -7,5 +7,8 @@ This repo is my playground for Chrome Extension. The initial code is based on [H
 3) How to copy and paste content between extension and web page; 
 4) How to drag and drop data between extension and web page. 
 
- 
+
+### References
+* [Debugging Extensions](https://developer.chrome.com/extensions/tut_debugging)
+* [Chrome Extension Developer Guide](https://developer.chrome.com/extensions/devguide)
 
