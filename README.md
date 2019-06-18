@@ -11,4 +11,5 @@ This repo is my playground for Chrome Extension. The initial code is based on [H
 ### References
 * [Debugging Extensions](https://developer.chrome.com/extensions/tut_debugging)
 * [Chrome Extension Developer Guide](https://developer.chrome.com/extensions/devguide)
+* [Create a Chrome extension to modify a website’s HTML or CSS](https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/)
 
