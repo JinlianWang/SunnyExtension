@@ -13,4 +13,5 @@ This repo is my playground for Chrome Extension. The initial code is based on [H
 * [Chrome Extension Developer Guide](https://developer.chrome.com/extensions/devguide)
 * [Create a Chrome extension to modify a website’s HTML or CSS](https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/)
 * [Making an Interactive Chrome Extension with React](https://blog.usejournal.com/making-an-interactive-chrome-extension-with-react-524483d7aa5d)
+* [Building Browser Extensions At Scale](https://tech.grammarly.com/blog/building-browser-extensions-at-scale#messaging-mechanism)
 
